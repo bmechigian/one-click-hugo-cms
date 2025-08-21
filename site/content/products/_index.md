@@ -11,7 +11,7 @@ intro:
       text: >
         Your guide to planning the next great Ski Touring adventure. Find lodging/camping beta, where to ski, where to find the most up-to-date information, and access to guiding companies. 
     - image: /img/illustrations-coffee-gear.svg
-     heading: Colorado
+     - heading: Colorado
       text: >
         Colorado has no shortage of accessible terrain for skiers looking to dip their toes into the backcountry. Popular beginner-friendly zones include Berthoud Pass, with its short, low-commitment laps and relatively easy access right off the highway. Loveland Pass is another favorite, offering mellow descents alongside steeper options for when confidence grows. Near Crested Butte, Washington Gulch and Snodgrass Mountain feature gentle glades and wide-open meadows perfect for learning safe travel techniques. Closer to Aspen, Ashcroft provides rolling terrain and beautiful views in a lower-avalanche-risk setting. These areas are well-traveled, making them great for newcomers—though even on beginner terrain, avalanche awareness and proper gear remain essential.
     - image: /img/illustrations-tutorials.svg

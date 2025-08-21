@@ -1,14 +1,11 @@
 ---
-title: Our Coffee
-type: products
+title: Activities
+type: Sports
 image: /img/products-jumbotron.jpg
 intro:
-  heading: What we offer
+  heading: Backcountry Skiing
   description: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee production,
-    roasting and brewing seriously and we’re glad to pass that knowledge to
-    anyone.
+    Your guide to planning the next great Ski Touring adventure. Find lodging/camping beta, where to ski, where to find the most up-to-date information, and access to guiding companies. 
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
@@ -38,12 +35,9 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
 main:
-  heading: Great coffee with no compromises
+  heading: Whitewater Kayaking
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    The single place to go to plan the next big kayak information. Select down from Day trips, to play spots, to where and how to plan your next multi-day adventure. .
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -64,7 +58,7 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Canyonnering
   description: >-
     We make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each

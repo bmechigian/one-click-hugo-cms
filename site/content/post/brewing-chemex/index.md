@@ -1,11 +1,12 @@
 ---
 title: A beginners’ guide to brewing with Chemex
 date: 2017-01-04T15:04:10.000Z
-description: Colorado is the premeir backcountry skiing location in the United States.
+description: Colorado Back Country Beginner Ski Areas.
 image: blog-chemex.jpg
 ---
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+Colorado has no shortage of accessible terrain for skiers looking to dip their toes into the backcountry. Popular beginner-friendly zones include **Berthoud Pass**, with its short, low-commitment laps and relatively easy access right off the highway. **Loveland Pass** is another favorite, offering mellow descents alongside steeper options for when confidence grows. Near Crested Butte, **Washington Gulch** and **Snodgrass Mountain** feature gentle glades and wide-open meadows perfect for learning safe travel techniques. Closer to Aspen, **Ashcroft** provides rolling terrain and beautiful views in a lower-avalanche-risk setting. These areas are well-traveled, making them great for newcomers—though even on beginner terrain, avalanche awareness and proper gear remain essential.
+\*.
 
 In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
 
